@@ -3,7 +3,8 @@ import './app.css';
 import SearchIcon from './search.svg';
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com?apikey=51812d2e";
+const API_URL = "https://www.omdbapi.com?apikey=51812d2e";
+// const API_URL = "http://www.omdbapi.com?apikey=51812d2e";
 
 // const movie1 = {
 //     "Title": "Fighting, Flying and Driving: The Stunts of Spiderman 3",
